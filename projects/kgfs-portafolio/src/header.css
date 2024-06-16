@@ -35,7 +35,7 @@ img{
     aspect-ratio: 1/1;
     object-fit: cover;
     width: 150px;
-    border-radius: 100px;
+    border-radius: 35px;
     border:3px solid #fefcfc;
     box-shadow: 0px 0px 20px rgb(183, 1, 239);
     background-color: white;

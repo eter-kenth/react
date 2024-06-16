@@ -15,7 +15,7 @@ function header(){
            </div>
 
            <div className='tercerDiv'>
-            <img src="kenneth.jpg" alt="" />
+            <img className='imgh' src="kenneth.jpg" alt="" />
            </div>
           </div>
         </header>

@@ -1,16 +1,19 @@
 :root {
   font-family: 'Courier New', Courier, monospace;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background: rgb(54,56,56);
+  background: linear-gradient(0deg, rgba(54,56,56,1) 0%, rgba(23,22,20,1) 100%);
 
 
 }
-
-
 body {
   margin-top:100px ;
   margin-left: 350px;
   padding-right: 350px;
+}
+
+.divF{
+  margin-top: 30px;
 }
 
 
