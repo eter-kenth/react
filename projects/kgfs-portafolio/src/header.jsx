@@ -45,10 +45,6 @@ function header(){
                     <path d="M16.5 7.5l0 .01" />
                     </svg>
           </a>
-
-          
-
-
             
         </footer>
 
